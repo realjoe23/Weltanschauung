@@ -1,0 +1,2 @@
+#libro 
+Autor: [[Schopenhauer, Arthur]]

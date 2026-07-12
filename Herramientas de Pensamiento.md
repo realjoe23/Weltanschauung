@@ -8,4 +8,4 @@ Libros:
 - [[El arte de tener razón]]
 - [[Como leer y porque]]
 
-Y dominar los tipos mas comunes de [[Falacia lógica]] es importante
+Y dominar los tipos mas comunes de [[Falacia lógica]] es importante 
